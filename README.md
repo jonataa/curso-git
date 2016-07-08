@@ -10,3 +10,10 @@ git add README.md
 git commit -m "Meu primeiro commit"
 git log
 ```
+
+## Trabalhando com Branchs
+```
+git branch 					  # lista todas as branchs
+git branch <nome-da-branch>   # cria um branch
+git checkout <nome-da-branch> # alterna entre as branchs
+```
